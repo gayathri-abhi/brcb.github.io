@@ -1558,7 +1558,7 @@ header {
 	width: 100%;
 	background: #DBDBDB url(../images/escheresque_@2X.png) repeat;
 	background-size: 46px 29px;
-	height: 130px;
+	height: 185px;
 	border-bottom: 1px solid #E5E5E5;
 }
 header .header-content {
@@ -1693,7 +1693,7 @@ header .logo a {
 	float: right;
 	padding-right: 85px;
 	font-family: "montserrat-regular", sans-serif;
-	font-size: 15px;
+	font-size: 18px;
 	height: 78px;
 }
 
