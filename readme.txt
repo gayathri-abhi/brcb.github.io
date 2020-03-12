@@ -1,3 +1,3 @@
 
-This website created by abhilash Dasari and Gayathri Vinjamuri
+This website created by Abhilash Dasari and Gayathri Vinjamuri
 
